@@ -1,5 +1,5 @@
 #initialize list with 5 product predefine
-products=[{'name':'arroz','price':1000,'quantity':20},{'name':'carne','price':8000,'quantity':20},{'name':'huevos','price':1000,'quantity':20},{'name':'tomate','price':1000,'quantity':20},{'name':'papa','price':1000,'quantity':20}]
+products=[{'name':'Rice','price':1000,'quantity':20},{'name':'Meat','price':8000,'quantity':20},{'name':'Eegs','price':1000,'quantity':20},{'name':'Tomatoes','price':1000,'quantity':20},{'name':'Potatoes','price':1000,'quantity':20}]
 
 #Function to valide if the name exist
 def name_exists(name, products):
